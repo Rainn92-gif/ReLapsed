@@ -1,0 +1,122 @@
+[
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\Private\\ReLapsed_MainCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\Public\\ReLapsed_MainCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsed.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsed.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsed.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedPickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedPickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedWeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\14343\\Desktop\\ReLapsed\\Source\\ReLapsed\\ReLapsedWeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\14343\\Desktop\\ReLapsed\\.vscode\\compileCommands_Default\\ReLapsed.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	}
+]
