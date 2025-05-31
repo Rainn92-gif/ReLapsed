@@ -1,0 +1,92 @@
+[
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsed.init.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed.init.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed.init.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsedCharacter.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedCharacter.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedCharacter.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsedGameMode.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedGameMode.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedGameMode.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsedPickUpComponent.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedPickUpComponent.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedPickUpComponent.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsedProjectile.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedProjectile.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedProjectile.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsedWeaponComponent.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedWeaponComponent.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedWeaponComponent.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/UnrealEditor/Inc/ReLapsed/UHT/ReLapsed_MainCharacter.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed_MainCharacter.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed_MainCharacter.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/PerModuleInline.gen.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/PerModuleInline.gen.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/PerModuleInline.gen.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/Private/ReLapsed_MainCharacter.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed_MainCharacter.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed_MainCharacter.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsed.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsed.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsedCharacter.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedCharacter.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedCharacter.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsedGameMode.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedGameMode.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedGameMode.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsedPickUpComponent.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedPickUpComponent.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedPickUpComponent.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsedProjectile.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedProjectile.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedProjectile.cpp.obj"
+	},
+	{
+		"file": "C:/Users/14343/Desktop/ReLapsed/Source/ReLapsed/ReLapsedWeaponComponent.cpp",
+		"command": "\"C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/Llvm/x64/bin/clang-cl.exe\" @\"C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedWeaponComponent.cpp.obj.rsp\" ",
+		"directory": "C:/Program Files/Epic Games/UE_5.5/Engine/Source",
+		"output": "C:/Users/14343/Desktop/ReLapsed/Intermediate/Build/Win64/x64/UnrealEditor/Development/ReLapsed/ReLapsedWeaponComponent.cpp.obj"
+	}
+]
