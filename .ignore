@@ -1,11 +1,7 @@
+/.git
+/.vs
 /.vscode
 /Content
 /DerivedDataCache
 /Intermediate
 /Saved
-.vs/*
-.idea/*
-.git/*
-.sln/*
-Build/*
-Plugins/*/Intermediate/*
